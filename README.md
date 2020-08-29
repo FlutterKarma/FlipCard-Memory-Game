@@ -1,9 +1,9 @@
-# flipcard
+#FlipCard Memory Game
 
 <img src="/screenshots/flipcard.gif" Height="400" >
 
-<img src="/screenshots/game1.jpg" Height="200">
-<img src="/screenshots/game2.jpg" Height="200">
+<img src="/screenshots/game1.jpg" Height="300">
+<img src="/screenshots/game2.jpg" Height="300">
 
 
 
