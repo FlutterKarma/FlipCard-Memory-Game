@@ -1,6 +1,14 @@
 # flipcard
 
-A new Flutter project.
+<img src="/screenshots/flipcard.gif" Height="400" >
+
+<img src="/screenshots/game1.jpg" Height="200">
+<img src="/screenshots/game2.jpg" Height="200">
+
+
+
+
+
 
 ## Getting Started
 
